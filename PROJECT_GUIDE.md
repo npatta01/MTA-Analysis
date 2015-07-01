@@ -8,5 +8,5 @@
 8. Plot #6 results using line graphs with 3 lines, each line representing time interval. We will have 2 line graphs. (matplotlib.py)
 9. Optional: If we can figure out or research about which stations are considered tourist-heavy stations, we can choose to eliminate them from the top 10 list.
 
-Nidhin's "crazy" idea:
-Show a map of companies within 0.5mi or 1mi radius of each of the top 10 subway stations. 
+Nidhin's "crazy" idea --> according to him!
+Show a map of companies within 0.5mi or 1mi radius of each of the top 10 subway stations. Subway stations will have black dots. Companies will be color coded by station they are nearest to.
